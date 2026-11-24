@@ -6,7 +6,7 @@ A *quadro elettrico* is the fuse box: one panel, one switch per circuit, and
 nothing turns on because the electricity company felt like it. That is the design.
 
 The other half of multi-tenancy. Its sibling
-[`condominio`](../cut-01-multitenant/) answers *can tenant A see tenant B's data*.
+[`condominio`](https://github.com/paakaer/cut-01-multitenant) answers *can tenant A see tenant B's data*.
 This one answers *what has tenant A actually got switched on* — which is the
 question your customers are paying you to answer, and the one where a plausible
 wrong answer turns off a working business.
